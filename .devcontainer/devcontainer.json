@@ -1,0 +1,5 @@
+{
+  "name": "Auto Run Bot",
+  "image": "mcr.microsoft.com/devcontainers/python:3",
+  "postStartCommand": "python3 m.py"
+}
